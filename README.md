@@ -19,7 +19,7 @@ http://swirlstats.com/students.html
 
 For a first time run:
 ```
-install.packages('swirl')
+install.packages(c('swirl', 'base64enc'))
 library("swirl")
 install_course_github("1vbutkus", "R_Programming")
 ```
