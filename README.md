@@ -5,8 +5,8 @@ This is a hub for swirl lessons that are dedicated for "practical econometric" l
 Swirl teaches you R programming and data science interactively, at your own pace, and right in the R console.
 See: http://swirlstats.com/
 
-All lectures are based on swirl starting content. See:
-httpd://git hub.com/swirly/swirl_courses#swirl-courses
+All lectures are based on swirl starting content. See: 
+http://git hub.com/swirly/swirl_courses#swirl-courses
 
 I just wanted to have some customization opportunity, thus, I duplicated the content.
 Up till now there is only few changes, but I hope there will be more.
@@ -14,7 +14,8 @@ Up till now there is only few changes, but I hope there will be more.
 ## Usage
 
 I assume you already know how to install R on your machine. 
-If not look at official swirl page to guide you step by step: http://swirlstats.com/students.html 
+If not, please look at official swirl page that will guide you step by step: 
+http://swirlstats.com/students.html 
 
 For a first time run:
 ```
