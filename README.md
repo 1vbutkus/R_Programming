@@ -6,7 +6,7 @@ Swirl teaches you R programming and data science interactively, at your own pace
 See: http://swirlstats.com/
 
 All lectures are based on swirl starting content. See: 
-http://git hub.com/swirly/swirl_courses#swirl-courses
+https://git hub.com/swirly/swirl_courses#swirl-courses
 
 I just wanted to have some customization opportunity, thus, I duplicated the content.
 Up till now there is only few changes, but I hope there will be more.
