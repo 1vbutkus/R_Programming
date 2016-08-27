@@ -7,10 +7,10 @@
   Version: 0.1.1
 
 - Class: text
-  Output: This lesson is dummy leson. It is something like "hellow world" program in prgraming. 
+  Output: This lesson is dummy lesson. It is something like "hellow world" program.
   
 - Class: text
-  Output: You are not going to lean something usefull here. The purpose of this lesson just to make sure you are able to load lesson and submit the results.
+  Output: You are not going to learn something usefull here. The purpose of this lesson just to make sure you are able to load lesson and submit the results.
   
 - Class: cmd_question
   Output: Enter 2 + 2.

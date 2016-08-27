@@ -26,7 +26,7 @@ getLog <- function(){
 submition <- function() {
   
   # getting envirament
-  #e <- get("e", parent.frame())
+  e <- get("e", parent.frame())
   #EE <<- e
   #print (EE)
   
