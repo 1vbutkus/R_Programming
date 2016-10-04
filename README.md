@@ -21,7 +21,7 @@ For a first time run:
 ```
 install.packages(c('swirl', 'base64enc'))
 library("swirl")
-install_course_github("1vbutkus", "R_Programming")
+install_course_github("1vbutkus", "R_Programming_PE")
 ```
 
 Next time to start a lesson just type:

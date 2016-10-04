@@ -1,5 +1,5 @@
 - Class: meta
-  Course: R Programming
+  Course: Data Analysis
   Lesson: Dummy Lesson
   Author: Vygantas Butkus
   Type: Standard
@@ -7,7 +7,7 @@
   Version: 0.1.1
 
 - Class: text
-  Output: This lesson is dummy lesson. It is something like "hellow world" program.
+  Output: This lesson is dummy lesson. It is something like "hello world" program.
   
 - Class: text
   Output: You are not going to learn something usefull here. The purpose of this lesson just to make sure you are able to load lesson and submit the results.
